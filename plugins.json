@@ -1,0 +1,27 @@
+[{
+  "projectUrl": "https://discord.gg/WTvTbSPknJ",
+  "provider": "WaRp",
+  "name": "WarpCutter",
+  "description": "Woodcutting guild Chopper",
+  "id": "warpcutter-plugin",
+  "releases": [{
+    "date": "2022-11-06",
+    "sha512sum": "6BED5318C0C6E2B7BAAF773A7B3B576BF50D11A50252B61FA326B8D16DBCE538B1BFFA8DA67F0EA0547CC002B7AD43C2DDBBD90E978A4AA435E8299BD627B37F",
+    "version": "0.0.2",
+    "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/warpcutter-0.0.2.jar",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/WTvTbSPknJ",
+  "provider": "WaRp",
+  "name": "WarpGauntlet",
+  "description": "Gear and prayer swapper for Gauntlet",
+  "id": "warpgauntlet-plugin",
+  "releases": [{
+    "date": "2022-11-06",
+    "sha512sum": "8A77EFA4E71C9FB7145417918E17D483472B8D53E3166221216BAD50A470ADF3248D0A12CC0413C52A0A1C3F8C8F9205362D74C05F18529D905E2000F0B7872C",
+    "version": "0.0.1",
+    "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/warpgauntlet-0.0.1.jar",
+    "requires": "^1.0.0"
+  }]
+}]
