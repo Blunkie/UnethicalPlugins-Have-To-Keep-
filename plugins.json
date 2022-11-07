@@ -35,6 +35,13 @@
         "version": "0.0.2",
         "url": "https://raw.githubusercontent.com/WaRpProjects/UnethicalPlugins/master/warpgauntlet-0.0.2.jar",
         "requires": "^1.0.0"
+      },
+      {
+        "date": "2022-11-07",
+        "sha512sum": "4AB29A53B1E4D8C5F34ECA94D75275B5C6B463E2E3ADF2A493BA7C98A02EA4831731D372377E119023392E2ECAE55E09D8B11066ECA439B5535A47ABB1D7295C",
+        "version": "0.0.3",
+        "url": "https://raw.githubusercontent.com/WaRpProjects/UnethicalPlugins/master/warpgauntlet-0.0.3.jar",
+        "requires": "^1.0.0"
       }
     ]
   },
