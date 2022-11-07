@@ -1,71 +1,70 @@
-[
-  {
-    "projectUrl": "https://discord.gg/WTvTbSPknJ",
-    "provider": "WaRp",
-    "name": "WarpCutter",
-    "description": "Woodcutting guild Chopper",
-    "id": "warpcutter-plugin",
-    "releases": [
-      {
-        "date": "2022-11-07",
-        "sha512sum": "6BED5318C0C6E2B7BAAF773A7B3B576BF50D11A50252B61FA326B8D16DBCE538B1BFFA8DA67F0EA0547CC002B7AD43C2DDBBD90E978A4AA435E8299BD627B37F",
-        "version": "0.0.2",
-        "url": "https://raw.githubusercontent.com/WaRpProjects/UnethicalPlugins/master/warpcutter-0.0.2.jar",
-        "requires": "^1.0.0"
-      }
-    ]
-  },
-  {
-    "projectUrl": "https://discord.gg/WTvTbSPknJ",
-    "provider": "WaRp",
-    "name": "WarpGauntlet",
-    "description": "Gear and prayer swapper for Hunlef",
-    "id": "warpgauntlet-plugin",
-    "releases": [
-      {
-        "date": "2022-11-06",
-        "sha512sum": "8A77EFA4E71C9FB7145417918E17D483472B8D53E3166221216BAD50A470ADF3248D0A12CC0413C52A0A1C3F8C8F9205362D74C05F18529D905E2000F0B7872C",
-        "version": "0.0.1",
-        "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/warpgauntlet-0.0.1.jar",
-        "requires": "^1.0.0"
-      },
-      {
-        "date": "2022-11-07",
-        "sha512sum": "937CEA0468CE5642FA681C317287A83F980C5C5FE8F55BEA7A32EB40E97CCFB842819F67597AC38CD6FA6F3518C12A404E0B9DDB61ED7ADF071175E59FD96704",
-        "version": "0.0.2",
-        "url": "https://raw.githubusercontent.com/WaRpProjects/UnethicalPlugins/master/warpgauntlet-0.0.2.jar",
-        "requires": "^1.0.0"
-      },
-      {
-        "date": "2022-11-07",
-        "sha512sum": "4AB29A53B1E4D8C5F34ECA94D75275B5C6B463E2E3ADF2A493BA7C98A02EA4831731D372377E119023392E2ECAE55E09D8B11066ECA439B5535A47ABB1D7295C",
-        "version": "0.0.3",
-        "url": "https://raw.githubusercontent.com/WaRpProjects/UnethicalPlugins/master/warpgauntlet-0.0.3.jar",
-        "requires": "^1.0.0"
-      },
-      {
-        "date": "2022-11-07",
-        "sha512sum": "7761A532E1084E8C928F3FFD4D711B8D47874C91F873DC2F14073F57AAA3A311650E2132F92EEF1FFA6DAA97EC8B9808EB713C6F980E209C3286F0771621127E",
-        "version": "0.0.4",
-        "url": "https://raw.githubusercontent.com/WaRpProjects/UnethicalPlugins/master/warpgauntlet-0.0.4.jar",
-        "requires": "^1.0.0"
-      }
-    ]
-  },
-  {
-    "projectUrl": "https://discord.gg/WTvTbSPknJ",
-    "provider": "Warp",
-    "name": "WarpSkiller",
-    "description": "Does some bankstanding skilling",
-    "id": "warpskiller-plugin",
-    "releases": [
-      {
-        "date": "2022-11-07",
-        "sha512sum": "D0895BD81EE5166B6C5F8C7178DCF6D00CD45A5C08A16DCFE555063DA92E0CA33470D1105AE82085B523A01EEB7EEE4CF49E942F332F9F636C8AE610BA8B776E",
-        "version": "0.0.1",
-        "url": "https://raw.githubusercontent.com/WaRpProjects/UnethicalPlugins/master/warpskiller-0.0.1.jar",
-        "requires": "^1.0.0"
-      }
-    ]
-  }
-]
+[{
+  "projectUrl": "https://discord.gg/WTvTbSPknJ",
+  "provider": "WaRp",
+  "name": "WarpCutter",
+  "description": "Woodcutting guild Chopper",
+  "id": "warpcutter-plugin",
+  "releases": [{
+    "date": "2022-11-07",
+    "sha512sum": "6BED5318C0C6E2B7BAAF773A7B3B576BF50D11A50252B61FA326B8D16DBCE538B1BFFA8DA67F0EA0547CC002B7AD43C2DDBBD90E978A4AA435E8299BD627B37F",
+    "version": "0.0.2",
+    "url": "https://raw.githubusercontent.com/WaRpProjects/UnethicalPlugins/master/warpcutter-0.0.2.jar",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/WTvTbSPknJ",
+  "provider": "unethicalite",
+  "name": "Warp Gauntlet",
+  "description": "Gear and prayer swapper for Hunlef",
+  "id": "warpgauntlet-plugin",
+  "releases": [
+    {
+      "date": "2022-11-06",
+      "sha512sum": "8A77EFA4E71C9FB7145417918E17D483472B8D53E3166221216BAD50A470ADF3248D0A12CC0413C52A0A1C3F8C8F9205362D74C05F18529D905E2000F0B7872C",
+      "version": "0.0.1",
+      "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/warpgauntlet-0.0.1.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-11-07",
+      "sha512sum": "937CEA0468CE5642FA681C317287A83F980C5C5FE8F55BEA7A32EB40E97CCFB842819F67597AC38CD6FA6F3518C12A404E0B9DDB61ED7ADF071175E59FD96704",
+      "version": "0.0.2",
+      "url": "https://raw.githubusercontent.com/WaRpProjects/UnethicalPlugins/master/warpgauntlet-0.0.2.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-11-07",
+      "sha512sum": "4AB29A53B1E4D8C5F34ECA94D75275B5C6B463E2E3ADF2A493BA7C98A02EA4831731D372377E119023392E2ECAE55E09D8B11066ECA439B5535A47ABB1D7295C",
+      "version": "0.0.3",
+      "url": "https://raw.githubusercontent.com/WaRpProjects/UnethicalPlugins/master/warpgauntlet-0.0.3.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-11-07",
+      "sha512sum": "7761A532E1084E8C928F3FFD4D711B8D47874C91F873DC2F14073F57AAA3A311650E2132F92EEF1FFA6DAA97EC8B9808EB713C6F980E209C3286F0771621127E",
+      "version": "0.0.4",
+      "url": "https://raw.githubusercontent.com/WaRpProjects/UnethicalPlugins/master/warpgauntlet-0.0.4.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-11-07",
+      "sha512sum": "497F51EE623C286E750B04D34AE3B652ADD60D6347D867119CA01264205A7CD4EFB6FFFFBB4F5AA7EA4932F4C444C77AAFA997F6701F8F1372DCA4FE62E16CFE",
+      "version": "0.0.5",
+      "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/warpgauntlet-0.0.5.jar",
+      "requires": "^1.0.0"
+    }
+  ]
+}, {
+  "projectUrl": "https://discord.gg/WTvTbSPknJ",
+  "provider": "Warp",
+  "name": "WarpSkiller",
+  "description": "Does some bankstanding skilling",
+  "id": "warpskiller-plugin",
+  "releases": [{
+    "date": "2022-11-07",
+    "sha512sum": "D0895BD81EE5166B6C5F8C7178DCF6D00CD45A5C08A16DCFE555063DA92E0CA33470D1105AE82085B523A01EEB7EEE4CF49E942F332F9F636C8AE610BA8B776E",
+    "version": "0.0.1",
+    "url": "https://raw.githubusercontent.com/WaRpProjects/UnethicalPlugins/master/warpskiller-0.0.1.jar",
+    "requires": "^1.0.0"
+  }]
+}]
