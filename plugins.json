@@ -52,19 +52,35 @@
       "version": "0.0.5",
       "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/warpgauntlet-0.0.5.jar",
       "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-11-07",
+      "sha512sum": "20C58A8F488D4D9C834EF828B7BD2A495DE1FA29BB9121303DE235EF24EC4ADC86F26B4513EF70D46A41E1F72ACB6816E30F85D1EE6878BC05D5B3EB5A131ACB",
+      "version": "0.0.6",
+      "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/warpgauntlet-0.0.6.jar",
+      "requires": "^1.0.0"
     }
   ]
 }, {
   "projectUrl": "https://discord.gg/WTvTbSPknJ",
-  "provider": "Warp",
+  "provider": "unethicalite",
   "name": "WarpSkiller",
-  "description": "Does some bankstanding skilling",
+  "description": "Does some GE skilling",
   "id": "warpskiller-plugin",
-  "releases": [{
-    "date": "2022-11-07",
-    "sha512sum": "D0895BD81EE5166B6C5F8C7178DCF6D00CD45A5C08A16DCFE555063DA92E0CA33470D1105AE82085B523A01EEB7EEE4CF49E942F332F9F636C8AE610BA8B776E",
-    "version": "0.0.1",
-    "url": "https://raw.githubusercontent.com/WaRpProjects/UnethicalPlugins/master/warpskiller-0.0.1.jar",
-    "requires": "^1.0.0"
-  }]
+  "releases": [
+    {
+      "date": "2022-11-07",
+      "sha512sum": "D0895BD81EE5166B6C5F8C7178DCF6D00CD45A5C08A16DCFE555063DA92E0CA33470D1105AE82085B523A01EEB7EEE4CF49E942F332F9F636C8AE610BA8B776E",
+      "version": "0.0.1",
+      "url": "https://raw.githubusercontent.com/WaRpProjects/UnethicalPlugins/master/warpskiller-0.0.1.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-11-07",
+      "sha512sum": "64E980E779A0ECEBAA097B999539155A0F0F95AEFD52A0DE2CA2324F346909D080B9578A6B16AC23512DA3D654B2E144E40279BDA09BFBFA0D4162F737B71D8C",
+      "version": "0.0.2",
+      "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/warpskiller-0.0.2.jar",
+      "requires": "^1.0.0"
+    }
+  ]
 }]
