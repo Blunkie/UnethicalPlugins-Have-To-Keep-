@@ -1,16 +1,25 @@
 [{
   "projectUrl": "https://discord.gg/WTvTbSPknJ",
-  "provider": "WaRp",
+  "provider": "Warp",
   "name": "WarpCutter",
   "description": "Woodcutting guild Chopper",
   "id": "warpcutter-plugin",
-  "releases": [{
-    "date": "2022-11-07",
-    "sha512sum": "65CA99C3DCB99E95B57F087C4B703006240F333066F66B770B56AB57050A9C9D742134E85E2115EAFD72C09E23D01803B9D040F7F665C271E8BD053F3D793816",
-    "version": "0.0.2",
-    "url": "https://raw.githubusercontent.com/WaRpProjects/UnethicalPlugins/master/warpcutter-0.0.2.jar",
-    "requires": "^1.0.0"
-  }]
+  "releases": [
+    {
+      "date": "2022-11-07",
+      "sha512sum": "65CA99C3DCB99E95B57F087C4B703006240F333066F66B770B56AB57050A9C9D742134E85E2115EAFD72C09E23D01803B9D040F7F665C271E8BD053F3D793816",
+      "version": "0.0.2",
+      "url": "https://raw.githubusercontent.com/WaRpProjects/UnethicalPlugins/master/warpcutter-0.0.2.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-11-08",
+      "sha512sum": "57AC9FB212A1935309423248DBE546650A96788DCFAFC48641A948D75A68CF887F636372482431239E366FB5A3F70912FFDEE45062790916823319E8134F8263",
+      "version": "0.0.3",
+      "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpcutter-0.0.3.jar",
+      "requires": "^1.0.0"
+    }
+  ]
 }, {
   "projectUrl": "https://discord.gg/WTvTbSPknJ",
   "provider": "WaRp",
