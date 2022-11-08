@@ -6,7 +6,7 @@
   "id": "warpcutter-plugin",
   "releases": [{
     "date": "2022-11-07",
-    "sha512sum": "6BED5318C0C6E2B7BAAF773A7B3B576BF50D11A50252B61FA326B8D16DBCE538B1BFFA8DA67F0EA0547CC002B7AD43C2DDBBD90E978A4AA435E8299BD627B37F",
+    "sha512sum": "65CA99C3DCB99E95B57F087C4B703006240F333066F66B770B56AB57050A9C9D742134E85E2115EAFD72C09E23D01803B9D040F7F665C271E8BD053F3D793816",
     "version": "0.0.2",
     "url": "https://raw.githubusercontent.com/WaRpProjects/UnethicalPlugins/master/warpcutter-0.0.2.jar",
     "requires": "^1.0.0"
@@ -22,7 +22,7 @@
       "date": "2022-11-06",
       "sha512sum": "8A77EFA4E71C9FB7145417918E17D483472B8D53E3166221216BAD50A470ADF3248D0A12CC0413C52A0A1C3F8C8F9205362D74C05F18529D905E2000F0B7872C",
       "version": "0.0.1",
-      "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/warpgauntlet-0.0.1.jar",
+      "url": "https://raw.githubusercontent.com/WaRpProjects/UnethicalPlugins/master/warpgauntlet-0.0.1.jar",
       "requires": "^1.0.0"
     },
     {
@@ -50,14 +50,14 @@
       "date": "2022-11-07",
       "sha512sum": "497F51EE623C286E750B04D34AE3B652ADD60D6347D867119CA01264205A7CD4EFB6FFFFBB4F5AA7EA4932F4C444C77AAFA997F6701F8F1372DCA4FE62E16CFE",
       "version": "0.0.5",
-      "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/warpgauntlet-0.0.5.jar",
+      "url": "https://raw.githubusercontent.com/WaRpProjects/UnethicalPlugins/master/warpgauntlet-0.0.5.jar",
       "requires": "^1.0.0"
     },
     {
       "date": "2022-11-07",
-      "sha512sum": "20C58A8F488D4D9C834EF828B7BD2A495DE1FA29BB9121303DE235EF24EC4ADC86F26B4513EF70D46A41E1F72ACB6816E30F85D1EE6878BC05D5B3EB5A131ACB",
+      "sha512sum": "2418F6240D90F34D710B657DC4EC16A880727EC7F421F3CBABC5722B3CB59CAD6691AD22977C9EC6687FCE55DFDB6A818CDF9E56F552E6B3BC3ABB6909A76A77",
       "version": "0.0.6",
-      "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/warpgauntlet-0.0.6.jar",
+      "url": "https://raw.githubusercontent.com/WaRpProjects/UnethicalPlugins/master/warpgauntlet-0.0.6.jar",
       "requires": "^1.0.0"
     }
   ]
@@ -79,7 +79,7 @@
       "date": "2022-11-07",
       "sha512sum": "64E980E779A0ECEBAA097B999539155A0F0F95AEFD52A0DE2CA2324F346909D080B9578A6B16AC23512DA3D654B2E144E40279BDA09BFBFA0D4162F737B71D8C",
       "version": "0.0.2",
-      "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/master/warpskiller-0.0.2.jar",
+      "url": "https://raw.githubusercontent.com/WaRpProjects/UnethicalPlugins/master/warpskiller-0.0.2.jar",
       "requires": "^1.0.0"
     }
   ]
