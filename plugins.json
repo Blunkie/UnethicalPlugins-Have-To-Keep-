@@ -22,7 +22,7 @@
       "date": "2022-11-07",
       "sha512sum": "2418F6240D90F34D710B657DC4EC16A880727EC7F421F3CBABC5722B3CB59CAD6691AD22977C9EC6687FCE55DFDB6A818CDF9E56F552E6B3BC3ABB6909A76A77",
       "version": "0.0.6",
-      "url": "https://github.com/WaRpProjects/UnethicalPlugins/blob/main/warpgauntlet-0.0.6.jar",
+      "url": "https://raw.githubusercontent.com/WaRpProjects/UnethicalPlugins/master/warpgauntlet-0.0.6.jar",
       "requires": "^1.0.0"
     }
   ]
