@@ -9,9 +9,8 @@ For suggestions or features/bugs contact WaRp#9721
 
 	* WarpSkiller - Does Gem cutting, High alch, Low alch, Superheat for now more to come.
 	
-	* WarpGorilla - Coming soon.
+	* WarpMasterThieving - Draynor Masterfarmer robber. Support eating and banking/dropping.
 	
-	* WarpFisher - Coming soon.
 
 How to add:
 
