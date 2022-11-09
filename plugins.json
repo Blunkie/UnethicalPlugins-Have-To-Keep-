@@ -4,15 +4,13 @@
   "name": "WarpCutter",
   "description": "Woodcutting guild Chopper",
   "id": "warpcutter-plugin",
-  "releases": [
-    {
-      "date": "2022-11-08",
-      "sha512sum": "57AC9FB212A1935309423248DBE546650A96788DCFAFC48641A948D75A68CF887F636372482431239E366FB5A3F70912FFDEE45062790916823319E8134F8263",
-      "version": "0.0.3",
-      "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpcutter-0.0.3.jar",
-      "requires": "^1.0.0"
-    }
-  ]
+  "releases": [{
+    "date": "2022-11-08",
+    "sha512sum": "57AC9FB212A1935309423248DBE546650A96788DCFAFC48641A948D75A68CF887F636372482431239E366FB5A3F70912FFDEE45062790916823319E8134F8263",
+    "version": "0.0.3",
+    "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpcutter-0.0.3.jar",
+    "requires": "^1.0.0"
+  }]
 }, {
   "projectUrl": "https://discord.gg/WTvTbSPknJ",
   "provider": "WaRp",
@@ -29,16 +27,27 @@
 }, {
   "projectUrl": "https://discord.gg/WTvTbSPknJ",
   "provider": "Warp",
+  "name": "Warp Master farmer thieving",
+  "description": "Steals from the poor farmers",
+  "id": "warpmasterfarmerthieving-plugin",
+  "releases": [{
+    "date": "2022-11-09",
+    "sha512sum": "DE2A166A4EB4DDD38136AF62241950870A3EE099D1F4B239297CD7E825F7D8273F48655E75CB34A6F1B22F02ABCE36ADE58F600BAFDABB6B037AB06420AF3151",
+    "version": "0.0.1",
+    "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpmasterthieving-0.0.1.jar",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/WTvTbSPknJ",
+  "provider": "Warp",
   "name": "WarpSkiller",
   "description": "Does some GE skilling",
   "id": "warpskiller-plugin",
-  "releases": [
-    {
-      "date": "2022-11-09",
-      "sha512sum": "CC745BE2E3DBD2FD6D8D22A337929ADAA1D84B415638D26D58ED5C9A6ABD2BF0907958CDA2143B8EA7B6231C80557AB483C1236C1A1876C7213F0C298D57439D",
-      "version": "0.0.4",
-      "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpskiller-0.0.4.jar",
-      "requires": "^1.0.0"
-    }
-  ]
+  "releases": [{
+    "date": "2022-11-09",
+    "sha512sum": "CC745BE2E3DBD2FD6D8D22A337929ADAA1D84B415638D26D58ED5C9A6ABD2BF0907958CDA2143B8EA7B6231C80557AB483C1236C1A1876C7213F0C298D57439D",
+    "version": "0.0.4",
+    "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpskiller-0.0.4.jar",
+    "requires": "^1.0.0"
+  }]
 }]
