@@ -43,13 +43,15 @@
   "name": "Warp Gauntlet",
   "description": "Gear and prayer swapper for Hunlef/Corrupted",
   "id": "warpgauntlet-plugin",
-  "releases": [{
-    "date": "2022-11-09",
-    "sha512sum": "0045D6751D4A7BEE15C34CF04A8B5527528B13A91BD4F5113CEA3FD95F67C887BA2C1E41ABDF346EEE7F3584B325D131EF1CBA61212617DFDACC79EB1BA48E59",
-    "version": "0.0.8",
-    "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpgauntlet-0.0.8.jar",
-    "requires": "^1.0.0"
-  }]
+  "releases": [
+    {
+      "date": "2022-11-09",
+      "sha512sum": "89521E09EE7A1B155338C5EC8C579E2B9B83A728AC712229C355E5C209E8C4D8416F7C7DD695EAE241F3509410AF30248FB21E30897F0BAEF8B21EC192C52DC5",
+      "version": "0.1.0",
+      "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpgauntlet-0.1.0.jar",
+      "requires": "^1.0.0"
+    }
+  ]
 }, {
   "projectUrl": "https://discord.gg/WTvTbSPknJ",
   "provider": "Warp",
