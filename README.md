@@ -13,6 +13,8 @@ For suggestions or features/bugs contact WaRp#9721
 	
 	* CoXHelper - From xKylee https://github.com/xKylee/plugins-source All credits to him
 	
+	* Theatre of Blood - From xKylee https://github.com/xKylee/plugins-source All credits to him
+	
 
 How to add:
 
