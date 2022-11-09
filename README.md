@@ -5,7 +5,7 @@ For suggestions or features/bugs contact WaRp#9721
 
 	* WarpCutter - Chops Yew/Magic trees in the woodcutting guild.
 
-	* WarpGauntlet - Swaps Weapons and prayer in the hunlef fight Eats and drinks as well.
+	* WarpGauntlet - Swaps Weapons and prayer in the hunlef fight Eats and drinks as well. Corrupted added but untested
 
 	* WarpSkiller - Does Gem cutting, High alch, Low alch, Superheat for now more to come.
 	
