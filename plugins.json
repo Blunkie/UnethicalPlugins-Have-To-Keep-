@@ -13,6 +13,19 @@
   }]
 }, {
   "projectUrl": "https://discord.gg/WTvTbSPknJ",
+  "provider": "xKylee",
+  "name": "Theatre Of Blood",
+  "description": "All-in-one plugin for Theatre of Blood",
+  "id": "theatreofblood-plugin",
+  "releases": [{
+    "date": "2022-11-09",
+    "sha512sum": "4CB26CD08F842CBB28BECF3D94A716FEF57ECBB9AE7D8054E5E1BBAFBBBD0E77092E40014765E434DEEEDA10F7692CA245B7EEB7DAFB1A10DD2CD942FF749CE7",
+    "version": "6.0.0",
+    "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/theatre-6.0.0.jar",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/WTvTbSPknJ",
   "provider": "Warp",
   "name": "WarpCutter",
   "description": "Woodcutting guild Chopper",
