@@ -7,7 +7,7 @@ For suggestions or features/bugs contact WaRp#9721
 
 	* WarpGauntlet - Swaps Weapons and prayer in the hunlef fight Eats and drinks as well.
 
-	* WarpSkiller - Coming soon.
+	* WarpSkiller - Does Gem cutting, High alch, Low alch, Superheat for now more to come.
 	
 	* WarpGorilla - Coming soon.
 	

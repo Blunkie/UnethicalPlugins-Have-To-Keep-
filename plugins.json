@@ -28,15 +28,17 @@
   }]
 }, {
   "projectUrl": "https://discord.gg/WTvTbSPknJ",
-  "provider": "WaRp",
+  "provider": "Warp",
   "name": "WarpSkiller",
   "description": "Does some GE skilling",
   "id": "warpskiller-plugin",
-  "releases": [{
-    "date": "2022-11-07",
-    "sha512sum": "64E980E779A0ECEBAA097B999539155A0F0F95AEFD52A0DE2CA2324F346909D080B9578A6B16AC23512DA3D654B2E144E40279BDA09BFBFA0D4162F737B71D8C",
-    "version": "0.0.2",
-    "url": "https://raw.githubusercontent.com/WaRpProjects/UnethicalPlugins/master/warpskiller-0.0.2.jar",
-    "requires": "^1.0.0"
-  }]
+  "releases": [
+    {
+      "date": "2022-11-09",
+      "sha512sum": "CC745BE2E3DBD2FD6D8D22A337929ADAA1D84B415638D26D58ED5C9A6ABD2BF0907958CDA2143B8EA7B6231C80557AB483C1236C1A1876C7213F0C298D57439D",
+      "version": "0.0.4",
+      "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpskiller-0.0.4.jar",
+      "requires": "^1.0.0"
+    }
+  ]
 }]
