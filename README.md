@@ -11,6 +11,8 @@ For suggestions or features/bugs contact WaRp#9721
 	
 	* WarpMasterThieving - Draynor Masterfarmer robber. Support eating and banking/dropping.
 	
+	* CoXHelper - From xKylee https://github.com/xKylee/plugins-source All credits to him
+	
 
 How to add:
 
