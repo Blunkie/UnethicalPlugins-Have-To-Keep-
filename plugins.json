@@ -1,5 +1,18 @@
 [{
   "projectUrl": "https://discord.gg/WTvTbSPknJ",
+  "provider": "xKylee",
+  "name": "CoX Helper",
+  "description": "All-in-one plugin for Chambers of Xeric",
+  "id": "coxhelper-plugin",
+  "releases": [{
+    "date": "2022-11-09",
+    "sha512sum": "86DFCDED5DEC98CA4F6A7B53F10C334A808A8020EBF91F2D21A88F7158FDCC8332B6A145993B50A91D33F5C397CBE6E312E159EA6147262866A974265288C1F6",
+    "version": "0.1.0",
+    "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/coxhelper-0.1.0.jar",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/WTvTbSPknJ",
   "provider": "Warp",
   "name": "WarpCutter",
   "description": "Woodcutting guild Chopper",
@@ -17,15 +30,13 @@
   "name": "Warp Gauntlet",
   "description": "Gear and prayer swapper for Hunlef/Corrupted",
   "id": "warpgauntlet-plugin",
-  "releases": [
-    {
-      "date": "2022-11-09",
-      "sha512sum": "0045D6751D4A7BEE15C34CF04A8B5527528B13A91BD4F5113CEA3FD95F67C887BA2C1E41ABDF346EEE7F3584B325D131EF1CBA61212617DFDACC79EB1BA48E59",
-      "version": "0.0.8",
-      "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpgauntlet-0.0.8.jar",
-      "requires": "^1.0.0"
-    }
-  ]
+  "releases": [{
+    "date": "2022-11-09",
+    "sha512sum": "0045D6751D4A7BEE15C34CF04A8B5527528B13A91BD4F5113CEA3FD95F67C887BA2C1E41ABDF346EEE7F3584B325D131EF1CBA61212617DFDACC79EB1BA48E59",
+    "version": "0.0.8",
+    "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpgauntlet-0.0.8.jar",
+    "requires": "^1.0.0"
+  }]
 }, {
   "projectUrl": "https://discord.gg/WTvTbSPknJ",
   "provider": "Warp",
