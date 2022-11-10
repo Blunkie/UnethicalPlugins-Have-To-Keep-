@@ -5,9 +5,9 @@ For suggestions or features/bugs contact WaRp#9721
 
 	* WarpCutter - Chops Yew/Magic trees in the woodcutting guild.
 
-	* WarpGauntlet - Swaps Weapons and prayer in the hunlef fight Eats and drinks as well. Corrupted added but untested
+	* WarpGauntlet - Hunllef helper Eat/Prayer swap/Weapon swap/Drink pots.
 
-	* WarpSkiller - Does Gem cutting, High alch, Low alch, Fletching Short/Longbows.
+	* WarpSkiller - Cuts gems, Fletches Bows (u), High/Low alch, Superheat iron.
 	
 	* WarpMasterThieving - Draynor Masterfarmer robber. Support eating and banking/dropping.
 	
