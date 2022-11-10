@@ -57,12 +57,13 @@
   "description": "Steals from the poor farmers",
   "id": "warpmasterfarmerthieving-plugin",
   "releases": [{
-    "date": "2022-11-09",
-    "sha512sum": "DE2A166A4EB4DDD38136AF62241950870A3EE099D1F4B239297CD7E825F7D8273F48655E75CB34A6F1B22F02ABCE36ADE58F600BAFDABB6B037AB06420AF3151",
-    "version": "0.0.1",
-    "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpmasterthieving-0.0.1.jar",
-    "requires": "^1.0.0"
-  }]
+      "date": "2022-11-10",
+      "sha512sum": "7D5F6E6E966F70F0C37A69B4715B7ADC0501B36B01A5B8F1F65132AE083926A171EDAF4E5FDC6D4775E371392520BB9E71ED30939870452B6604FEFE3EE78546",
+      "version": "0.0.2",
+      "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpmasterthieving-0.0.2.jar",
+      "requires": "^1.0.0"
+    }
+  ]
 }, {
   "projectUrl": "https://discord.gg/WTvTbSPknJ",
   "provider": "Warp",
@@ -70,11 +71,10 @@
   "description": "Does some GE skilling",
   "id": "warpskiller-plugin",
   "releases": [{
-      "date": "2022-11-10",
-      "sha512sum": "429F484C576BFE76620AC9C5F255D77DE741E91368CEA2621E56029D65CF2F10EC6DC14E89262F5D382173C0FE51A372C8F1CFC1D85442C12E468FD5C671E315",
-      "version": "0.0.6",
-      "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpskiller-0.0.6.jar",
-      "requires": "^1.0.0"
-    }
-  ]
+    "date": "2022-11-10",
+    "sha512sum": "429F484C576BFE76620AC9C5F255D77DE741E91368CEA2621E56029D65CF2F10EC6DC14E89262F5D382173C0FE51A372C8F1CFC1D85442C12E468FD5C671E315",
+    "version": "0.0.6",
+    "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpskiller-0.0.6.jar",
+    "requires": "^1.0.0"
+  }]
 }]
