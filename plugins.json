@@ -45,10 +45,10 @@
   "id": "warpgauntlet-plugin",
   "releases": [
     {
-      "date": "2022-11-09",
-      "sha512sum": "89521E09EE7A1B155338C5EC8C579E2B9B83A728AC712229C355E5C209E8C4D8416F7C7DD695EAE241F3509410AF30248FB21E30897F0BAEF8B21EC192C52DC5",
-      "version": "0.1.0",
-      "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpgauntlet-0.1.0.jar",
+      "date": "2022-11-10",
+      "sha512sum": "FF7BE2F4E4F1F562AE48992FCDE31AE23CE682AEACC3EF3A8680BC3C626F4CF3106B06B26BECA0CAF212DA44DD80ED42C4A4A1FCA4AEF66A6C2D1D4AB98CF464",
+      "version": "0.1.1",
+      "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpgauntlet-0.1.1.jar",
       "requires": "^1.0.0"
     }
   ]
