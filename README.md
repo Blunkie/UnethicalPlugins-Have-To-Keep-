@@ -7,7 +7,7 @@ For suggestions or features/bugs contact WaRp#9721
 
 	* WarpGauntlet - Swaps Weapons and prayer in the hunlef fight Eats and drinks as well. Corrupted added but untested
 
-	* WarpSkiller - Does Gem cutting, High alch, Low alch, Superheat for now more to come.
+	* WarpSkiller - Does Gem cutting, High alch, Low alch, Fletching Short/Longbows.
 	
 	* WarpMasterThieving - Draynor Masterfarmer robber. Support eating and banking/dropping.
 	

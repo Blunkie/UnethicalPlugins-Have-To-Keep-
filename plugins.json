@@ -44,13 +44,12 @@
   "description": "Gear and prayer swapper for Hunlef/Corrupted",
   "id": "warpgauntlet-plugin",
   "releases": [{
-      "date": "2022-11-10",
-      "sha512sum": "1F79D64D606DF6A69668354E166685A69E226E97C727A57594FBABFA37C99C3BA2AFDE1413D7DFFC4ACA3264F5FB5424AD1DC24C45B425B472EEE0EE9DCD7C75",
-      "version": "0.1.4",
-      "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpgauntlet-0.1.4.jar",
-      "requires": "^1.0.0"
-    }
-  ]
+    "date": "2022-11-10",
+    "sha512sum": "1F79D64D606DF6A69668354E166685A69E226E97C727A57594FBABFA37C99C3BA2AFDE1413D7DFFC4ACA3264F5FB5424AD1DC24C45B425B472EEE0EE9DCD7C75",
+    "version": "0.1.4",
+    "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpgauntlet-0.1.4.jar",
+    "requires": "^1.0.0"
+  }]
 }, {
   "projectUrl": "https://discord.gg/WTvTbSPknJ",
   "provider": "Warp",
@@ -70,11 +69,20 @@
   "name": "WarpSkiller",
   "description": "Does some GE skilling",
   "id": "warpskiller-plugin",
-  "releases": [{
-    "date": "2022-11-09",
-    "sha512sum": "CC745BE2E3DBD2FD6D8D22A337929ADAA1D84B415638D26D58ED5C9A6ABD2BF0907958CDA2143B8EA7B6231C80557AB483C1236C1A1876C7213F0C298D57439D",
-    "version": "0.0.4",
-    "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpskiller-0.0.4.jar",
-    "requires": "^1.0.0"
-  }]
+  "releases": [
+    {
+      "date": "2022-11-09",
+      "sha512sum": "6A7608C7A2F3DD857BC3AE53F555E5770E5D12F485555F1AD4969B00A683C3E243A31FFC2DD30D01DF2E1F554CFDA6B497786D79AAEA9695F105ED71C1F9E1F0",
+      "version": "0.0.4",
+      "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpskiller-0.0.4.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-11-10",
+      "sha512sum": "7A5F42143EE8981B6D1ECA5B5A1F7D3E0BAAED324AB9101D27ECA1027DC86B2B72A07943D65BBCCE6458EFD80A5DE000D0F6A0BA573272ED58B1271923D944CE",
+      "version": "0.0.5",
+      "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpskiller-0.0.5.jar",
+      "requires": "^1.0.0"
+    }
+  ]
 }]
