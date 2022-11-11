@@ -31,12 +31,13 @@
   "description": "Woodcutting guild Chopper",
   "id": "warpcutter-plugin",
   "releases": [{
-    "date": "2022-11-08",
-    "sha512sum": "57AC9FB212A1935309423248DBE546650A96788DCFAFC48641A948D75A68CF887F636372482431239E366FB5A3F70912FFDEE45062790916823319E8134F8263",
-    "version": "0.0.3",
-    "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpcutter-0.0.3.jar",
-    "requires": "^1.0.0"
-  }]
+      "date": "2022-11-11",
+      "sha512sum": "95CC3E3A052A899DB439F1AD298AD0E8EAE175C98E145D648774FF1A58283D0FE7463E847C3D80637A26DFABFD7B2B05152D57E78660B1ABD73B657EC75B8418",
+      "version": "0.0.4",
+      "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpcutter-0.0.4.jar",
+      "requires": "^1.0.0"
+    }
+  ]
 }, {
   "projectUrl": "https://discord.gg/WTvTbSPknJ",
   "provider": "Warp",
@@ -44,12 +45,13 @@
   "description": "Gear and prayer swapper for Hunlef/Corrupted",
   "id": "warpgauntlet-plugin",
   "releases": [{
-    "date": "2022-11-10",
-    "sha512sum": "1F79D64D606DF6A69668354E166685A69E226E97C727A57594FBABFA37C99C3BA2AFDE1413D7DFFC4ACA3264F5FB5424AD1DC24C45B425B472EEE0EE9DCD7C75",
-    "version": "0.1.4",
-    "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpgauntlet-0.1.4.jar",
-    "requires": "^1.0.0"
-  }]
+      "date": "2022-11-11",
+      "sha512sum": "0969D103997F3512A5FEDFF20DB1C9E45B4A077BC802E8A4C5BD6E23B2AC6A1F1F8ED4A08167665E4976378A7828BD423B4A05BA738F699FF4A6B1197ADD26FB",
+      "version": "0.1.5",
+      "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpgauntlet-0.1.5.jar",
+      "requires": "^1.0.0"
+    }
+  ]
 }, {
   "projectUrl": "https://discord.gg/WTvTbSPknJ",
   "provider": "Warp",
@@ -57,10 +59,10 @@
   "description": "Steals from the poor farmers",
   "id": "warpmasterfarmerthieving-plugin",
   "releases": [{
-      "date": "2022-11-10",
-      "sha512sum": "7D5F6E6E966F70F0C37A69B4715B7ADC0501B36B01A5B8F1F65132AE083926A171EDAF4E5FDC6D4775E371392520BB9E71ED30939870452B6604FEFE3EE78546",
-      "version": "0.0.2",
-      "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpmasterthieving-0.0.2.jar",
+      "date": "2022-11-11",
+      "sha512sum": "7BF3E779BDBFF10D444A5ADB29ED1E80A763DB4D0A3554B266AE659F2AA27654D384A496EFDED1940B3768498FD6FE7AA5980680F548C90B369120BAC98002E7",
+      "version": "0.0.4",
+      "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpmasterthieving-0.0.4.jar",
       "requires": "^1.0.0"
     }
   ]
@@ -71,10 +73,11 @@
   "description": "Does some GE skilling",
   "id": "warpskiller-plugin",
   "releases": [{
-    "date": "2022-11-10",
-    "sha512sum": "429F484C576BFE76620AC9C5F255D77DE741E91368CEA2621E56029D65CF2F10EC6DC14E89262F5D382173C0FE51A372C8F1CFC1D85442C12E468FD5C671E315",
-    "version": "0.0.6",
-    "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpskiller-0.0.6.jar",
-    "requires": "^1.0.0"
-  }]
+      "date": "2022-11-11",
+      "sha512sum": "AFD972F576FA1331C0E5C4D789E8B5863B529607B9D1358C1E3238F5EBBB320631B8E9047D71B996B66A396B302EF74CF0604E2AA880AEB3C54C874BF84F2A63",
+      "version": "0.0.7",
+      "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpskiller-0.0.7.jar",
+      "requires": "^1.0.0"
+    }
+  ]
 }]
