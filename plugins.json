@@ -14,14 +14,27 @@
 }, {
   "projectUrl": "https://discord.gg/WTvTbSPknJ",
   "provider": "Warp",
+  "name": "Warp Farm",
+  "description": "Does farm runs for you",
+  "id": "warpfarm-plugin",
+  "releases": [{
+    "date": "2022-11-12",
+    "sha512sum": "4521AA5EF84C3ECCCAA1F08A4EFFE63FFA33CA1F172422891E372F4A780947ED77EA458B94A72E7497B4A6FC0EAA22016724279B445223421FA6EEF939F2B4F9",
+    "version": "0.0.1",
+    "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpfarm-0.0.1.jar",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/WTvTbSPknJ",
+  "provider": "Warp",
   "name": "Warp Gauntlet",
   "description": "Gear and prayer swapper for Hunlef/Corrupted",
   "id": "warpgauntlet-plugin",
   "releases": [{
-      "date": "2022-11-12",
-      "sha512sum": "14CB6AE44DFF2C4C4DAC01424F714F719BE2C759F9F742D3262484534819FB8A261E682665F65470ED185768389D50B59C8E4D4E78A1DBBA7B4974DF070E4002",
-      "version": "0.1.7",
-      "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpgauntlet-0.1.7.jar",
+      "date": "2022-11-14",
+      "sha512sum": "56A0F605062F02D69FEEE5E261B03BD105D4FCAE2869E6C19D626672075AEEB1BB9ECD32B09C3BA22B532BDD6B8545D7ACBAF643CC237C646E68C9F376029E2E",
+      "version": "0.1.8",
+      "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpgauntlet-0.1.8.jar",
       "requires": "^1.0.0"
     }
   ]
@@ -42,13 +55,14 @@
   "projectUrl": "https://discord.gg/WTvTbSPknJ",
   "provider": "Warp",
   "name": "WarpSkiller",
-  "description": "Does some GE skilling",
+  "description": "Does some bank skilling",
   "id": "warpskiller-plugin",
   "releases": [{
-    "date": "2022-11-11",
-    "sha512sum": "AFD972F576FA1331C0E5C4D789E8B5863B529607B9D1358C1E3238F5EBBB320631B8E9047D71B996B66A396B302EF74CF0604E2AA880AEB3C54C874BF84F2A63",
-    "version": "0.0.7",
-    "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpskiller-0.0.7.jar",
-    "requires": "^1.0.0"
-  }]
+      "date": "2022-11-14",
+      "sha512sum": "D718E4BFAB43287D286285D7F2EDEBD5A63EB3F5153AA02463A24A6A36972AA7309214F8207B3B8B04EB5EA8298FB124BB12A1B24EE1B66715D3784FDD59D753",
+      "version": "0.0.8",
+      "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpskiller-0.0.8.jar",
+      "requires": "^1.0.0"
+    }
+  ]
 }]
