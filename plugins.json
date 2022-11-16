@@ -44,10 +44,10 @@
   "description": "Does some bank skilling",
   "id": "warpskiller-plugin",
   "releases": [{
-    "date": "2022-11-14",
-    "sha512sum": "E552E67482180CEF272CFED5B5241E712D4D622D7F119A17358DE06923350DA2A1C5ED4E35A5EF31BFB6694A5395ED9D0DD8FBA4957C849F2CDA4CE37A698DAA",
-    "version": "0.0.8",
-    "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpskiller-0.0.8.jar",
+    "date": "2022-11-16",
+    "sha512sum": "943C375DD8BD6D1B54DC84A56D17BAD90961360D480158EAC085F5207A5EC9BEFCAA7624F203FE109DF1E4A4819FD279A7108C329E86EE42AEE5FED7FB731529",
+    "version": "0.0.9",
+    "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpskiller-0.0.9.jar",
     "requires": "^1.0.0"
   }]
 }]
