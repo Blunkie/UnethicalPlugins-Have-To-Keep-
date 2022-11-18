@@ -54,13 +54,22 @@
   "projectUrl": "https://discord.gg/WTvTbSPknJ",
   "provider": "Warp",
   "name": "WarpVyreKiller",
-  "description": "Kills Vyre's Banks and restores prayer",
+  "description": "Kills Vyre's next to bank",
   "id": "warpvyrekiller-plugin",
-  "releases": [{
-    "date": "2022-11-18",
-    "sha512sum": "0F324FC9EEC9F982FDFD9BA48BCDCBE7C8BF8C50D1ED69E2C3833A1D42285949382231D0E27196F411FA3B2C5AA32330A3B33F6B0063DD6B6C2A56AB5F4C529B",
-    "version": "0.0.2",
-    "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpvyrekiller-0.0.2.jar",
-    "requires": "^1.0.0"
-  }]
+  "releases": [
+    {
+      "date": "2022-11-18",
+      "sha512sum": "0F324FC9EEC9F982FDFD9BA48BCDCBE7C8BF8C50D1ED69E2C3833A1D42285949382231D0E27196F411FA3B2C5AA32330A3B33F6B0063DD6B6C2A56AB5F4C529B",
+      "version": "0.0.2",
+      "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpvyrekiller-0.0.2.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-11-18",
+      "sha512sum": "54707E5D0DD7EC7C246EF09467C65F541DD5AF2575216094F9F18AF7096F6002A0727EB389F42AA93EE4CC6CB9F65660F68A122A8B0EA54EEEEB90D38C096C4C",
+      "version": "0.0.3",
+      "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpvyrekiller-0.0.3.jar",
+      "requires": "^1.0.0"
+    }
+  ]
 }]
