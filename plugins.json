@@ -4,15 +4,13 @@
   "name": "WarpCutter",
   "description": "Woodcutting guild Chopper",
   "id": "warpcutter-plugin",
-  "releases": [
-    {
-      "date": "2022-11-17",
-      "sha512sum": "B085EF5CF2C66834F74467FD13B0427528D454B2CB74E22AEEBD2BDD31CFEAAB0BD4CD3D2EE001CB610C53CE39846B1E63C857ECEB99CF139F4153A350889B4F",
-      "version": "0.0.5",
-      "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpcutter-0.0.5.jar",
-      "requires": "^1.0.0"
-    }
-  ]
+  "releases": [{
+    "date": "2022-11-17",
+    "sha512sum": "B085EF5CF2C66834F74467FD13B0427528D454B2CB74E22AEEBD2BDD31CFEAAB0BD4CD3D2EE001CB610C53CE39846B1E63C857ECEB99CF139F4153A350889B4F",
+    "version": "0.0.5",
+    "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpcutter-0.0.5.jar",
+    "requires": "^1.0.0"
+  }]
 }, {
   "projectUrl": "https://discord.gg/WTvTbSPknJ",
   "provider": "Warp",
@@ -32,30 +30,26 @@
   "name": "Warp Gauntlet",
   "description": "Gear and prayer swapper for Hunlef/Corrupted",
   "id": "warpgauntlet-plugin",
-  "releases": [
-    {
-      "date": "2022-11-17",
-      "sha512sum": "E64FFE191AC05AD1389D5CE3DD81212C8591DD17B205189D5A4520CBD78B5A0DF6E7D183B96A4A73C2EA20D8CE1874BF133B5F2FFADA420B809D724740764B8E",
-      "version": "0.1.9",
-      "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpgauntlet-0.1.9.jar",
-      "requires": "^1.0.0"
-    }
-  ]
+  "releases": [{
+    "date": "2022-11-17",
+    "sha512sum": "E64FFE191AC05AD1389D5CE3DD81212C8591DD17B205189D5A4520CBD78B5A0DF6E7D183B96A4A73C2EA20D8CE1874BF133B5F2FFADA420B809D724740764B8E",
+    "version": "0.1.9",
+    "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpgauntlet-0.1.9.jar",
+    "requires": "^1.0.0"
+  }]
 }, {
   "projectUrl": "https://discord.gg/WTvTbSPknJ",
   "provider": "Warp",
   "name": "Warp Master farmer thieving",
   "description": "Steals from the poor farmers",
   "id": "warpmasterfarmerthieving-plugin",
-  "releases": [
-    {
-      "date": "2022-11-17",
-      "sha512sum": "CE24E5FB36AEFB9BBC6436B796D97941A9E185434110C8BB56E1EA7A79B5D4C84F268677FDB9DFEF64B602B8E94189E5DB13D1ABD2B00195E55E059016F76CB2",
-      "version": "0.0.5",
-      "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpmasterthieving-0.0.5.jar",
-      "requires": "^1.0.0"
-    }
-  ]
+  "releases": [{
+    "date": "2022-11-17",
+    "sha512sum": "CE24E5FB36AEFB9BBC6436B796D97941A9E185434110C8BB56E1EA7A79B5D4C84F268677FDB9DFEF64B602B8E94189E5DB13D1ABD2B00195E55E059016F76CB2",
+    "version": "0.0.5",
+    "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpmasterthieving-0.0.5.jar",
+    "requires": "^1.0.0"
+  }]
 }, {
   "projectUrl": "https://discord.gg/WTvTbSPknJ",
   "provider": "Warp",
@@ -67,6 +61,19 @@
     "sha512sum": "943C375DD8BD6D1B54DC84A56D17BAD90961360D480158EAC085F5207A5EC9BEFCAA7624F203FE109DF1E4A4819FD279A7108C329E86EE42AEE5FED7FB731529",
     "version": "0.0.9",
     "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpskiller-0.0.9.jar",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/WTvTbSPknJ",
+  "provider": "Warp",
+  "name": "WarpVyreKiller",
+  "description": "Kills Vyre's next to bank",
+  "id": "warpvyrekiller-plugin",
+  "releases": [{
+    "date": "2022-11-18",
+    "sha512sum": "B5A0419D25288C34896D9CFA3D2D63BE49624E28B6C816879FD71F9BE5EF675DA1F0EFD3A351BC40ED8324C44DA960CDE16BBA40910CFE10C5949787357AF358",
+    "version": "0.0.1",
+    "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpvyrekiller-0.0.1.jar",
     "requires": "^1.0.0"
   }]
 }]

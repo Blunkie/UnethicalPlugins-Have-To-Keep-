@@ -7,6 +7,7 @@ For suggestions or features/bugs contact WaRp#9721
 	* WarpGauntlet - Hunllef helper Eat/Prayer swap/Weapon swap/Drink pots.
 	* WarpSkiller - Cuts gems, Fletches Bows (u), High/Low alch, Superheat iron.
 	* WarpMasterThieving - Draynor Masterfarmer robber. Support eating and banking/dropping.
+	* WarpVyreKiller - Kills Vyrewatch Sentinels, Recharges prayer and banks loot. 
 
 # How to add:
 	Repository owner: WaRpProjects 	
