@@ -69,11 +69,13 @@
   "name": "WarpVyreKiller",
   "description": "Kills Vyre's next to bank",
   "id": "warpvyrekiller-plugin",
-  "releases": [{
-    "date": "2022-11-18",
-    "sha512sum": "B5A0419D25288C34896D9CFA3D2D63BE49624E28B6C816879FD71F9BE5EF675DA1F0EFD3A351BC40ED8324C44DA960CDE16BBA40910CFE10C5949787357AF358",
-    "version": "0.0.1",
-    "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpvyrekiller-0.0.1.jar",
-    "requires": "^1.0.0"
-  }]
+  "releases": [
+    {
+      "date": "2022-11-18",
+      "sha512sum": "826F52C6D58132007FF4FFBD38ACB765DAAB3298C36BA33A3997B21AC873086439A4FCD832AB0769139DD94C64C26C987566B1D04D8622D17137DF071DA28A5E",
+      "version": "0.0.2",
+      "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpvyrekiller-0.0.2.jar",
+      "requires": "^1.0.0"
+    }
+  ]
 }]
