@@ -111,6 +111,13 @@
       "version": "0.0.7",
       "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpvyrekiller-0.0.7.jar",
       "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-11-20",
+      "sha512sum": "896EBE4390ACD1B58E03F9A19C0226FB3C73CF8261E5D08DB6B2EF4968F1A5EC3CF170C71F1ACE349065BFCA9F6F643B841D8AFD511811CB868BA72B87FF0349",
+      "version": "0.0.8",
+      "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpvyrekiller-0.0.8.jar",
+      "requires": "^1.0.0"
     }
   ]
 }]
