@@ -19,9 +19,22 @@
   "id": "warpgauntlet-plugin",
   "releases": [{
     "date": "2022-11-17",
-    "sha512sum": "E64FFE191AC05AD1389D5CE3DD81212C8591DD17B205189D5A4520CBD78B5A0DF6E7D183B96A4A73C2EA20D8CE1874BF133B5F2FFADA420B809D724740764B8E",
+    "sha512sum": "0938502E8B4B7C599D721E2E4EDF7EF5E6BAE4BD3D844DF1113B6B804C21D5BCDA560BA3DDA937719BE52AB5F9E43116C386E17069ADAC016ADDB61F9A60D55A",
     "version": "0.1.9",
     "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpgauntlet-0.1.9.jar",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/WTvTbSPknJ",
+  "provider": "Warp",
+  "name": "WarpHerbiboar",
+  "description": "Hunts Herbiboar for herbs",
+  "id": "warpherbiboar-plugin",
+  "releases": [{
+    "date": "2022-11-20",
+    "sha512sum": "23A873CE36D6E3B9E45C6C71D80DEDFFA8A5B9FA4E5ADFC5932FB5F25AF1E48E92F032A8346A30CC9212A5E032CAC9527073E5F485E3891351105D59375189F1",
+    "version": "0.0.1",
+    "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpherbiboar-0.0.1.jar",
     "requires": "^1.0.0"
   }]
 }, {
@@ -83,6 +96,20 @@
       "sha512sum": "A805F537935A7D752F88B717AAC499956B0B879664D96F580918CF5307D31029DE474CEB4542B591732536D2B26A7CC0A4B508A709162655E4C0D9F072140C47",
       "version": "0.0.5",
       "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpvyrekiller-0.0.5.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-11-20",
+      "sha512sum": "825E88827D09DCFF36A79B0584ABEE55361887FB8A68E9B13BB067E3BB01EBA1C3A52006CA1A373C0092DC1598E340E7F718B075BA157772C7BD506411508AD0",
+      "version": "0.0.6",
+      "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpvyrekiller-0.0.6.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-11-20",
+      "sha512sum": "959E45A4E7F9ED5FEA9480C6CE4759DAED920531F026920C3BFBF8D0B049EA31FA0FCD5627883856EBC3CF82FAAA2DBD6D66D1E48F58A79718131B21B5AD75E0",
+      "version": "0.0.7",
+      "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpvyrekiller-0.0.7.jar",
       "requires": "^1.0.0"
     }
   ]
