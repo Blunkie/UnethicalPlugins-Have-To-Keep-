@@ -18,6 +18,13 @@
       "version": "0.0.6",
       "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpcutter-0.0.6.jar",
       "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-11-23",
+      "sha512sum": "AEE5DA4F077DE00BB36963F5A6814DEF9991C04A8E72B4000D29BD14B434924DAB5332D69198904525402316DEA163863B95233E3FAAF9AB934BC9DBBEB9C995",
+      "version": "0.0.7",
+      "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpcutter-0.0.7.jar",
+      "requires": "^1.0.0"
     }
   ]
 }, {
