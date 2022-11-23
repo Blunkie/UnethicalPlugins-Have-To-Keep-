@@ -2,15 +2,24 @@
   "projectUrl": "https://discord.gg/WTvTbSPknJ",
   "provider": "Warp",
   "name": "WarpCutter",
-  "description": "Woodcutting guild Chopper",
+  "description": "Get to the Chopper",
   "id": "warpcutter-plugin",
-  "releases": [{
-    "date": "2022-11-17",
-    "sha512sum": "B085EF5CF2C66834F74467FD13B0427528D454B2CB74E22AEEBD2BDD31CFEAAB0BD4CD3D2EE001CB610C53CE39846B1E63C857ECEB99CF139F4153A350889B4F",
-    "version": "0.0.5",
-    "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpcutter-0.0.5.jar",
-    "requires": "^1.0.0"
-  }]
+  "releases": [
+    {
+      "date": "2022-11-17",
+      "sha512sum": "B085EF5CF2C66834F74467FD13B0427528D454B2CB74E22AEEBD2BDD31CFEAAB0BD4CD3D2EE001CB610C53CE39846B1E63C857ECEB99CF139F4153A350889B4F",
+      "version": "0.0.5",
+      "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpcutter-0.0.5.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-11-23",
+      "sha512sum": "25C743DED6A91E1CFCBD86016F5D840BD676A27153B701BED20D980B292FFDDD1221A9F26E2C16A7C895DB3FD7F6BEBCE4FCA7DCA5664307F9436D4D84C9A2E9",
+      "version": "0.0.6",
+      "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpcutter-0.0.6.jar",
+      "requires": "^1.0.0"
+    }
+  ]
 }, {
   "projectUrl": "https://discord.gg/WTvTbSPknJ",
   "provider": "Warp",
@@ -32,7 +41,7 @@
   "id": "warpherbiboar-plugin",
   "releases": [{
     "date": "2022-11-20",
-    "sha512sum": "23A873CE36D6E3B9E45C6C71D80DEDFFA8A5B9FA4E5ADFC5932FB5F25AF1E48E92F032A8346A30CC9212A5E032CAC9527073E5F485E3891351105D59375189F1",
+    "sha512sum": "5CE16D4CEAA68878FAE49B401671DC438C3A7720E672A1B224988FF625BDBCB4A9061B3B40096D75243A051AC6EB74CAF70C945CBE8F9EC37E8A253340972344",
     "version": "0.0.1",
     "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpherbiboar-0.0.1.jar",
     "requires": "^1.0.0"
@@ -117,6 +126,13 @@
       "sha512sum": "896EBE4390ACD1B58E03F9A19C0226FB3C73CF8261E5D08DB6B2EF4968F1A5EC3CF170C71F1ACE349065BFCA9F6F643B841D8AFD511811CB868BA72B87FF0349",
       "version": "0.0.8",
       "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpvyrekiller-0.0.8.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-11-23",
+      "sha512sum": "EFC882919C9F7610334538877574A5786BF2BDFA4084058C5996B7803E113BF3ACAD1D8E2983086ED0C1EE70B2DFF9DAD3F03B8D179FF6A318184919F26DF0B6",
+      "version": "0.0.9",
+      "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpvyrekiller-0.0.9.jar",
       "requires": "^1.0.0"
     }
   ]
