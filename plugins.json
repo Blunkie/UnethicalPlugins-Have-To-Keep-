@@ -4,13 +4,22 @@
   "name": "WarpCrabs",
   "description": "Kills crabs and alchs",
   "id": "warpcrabs-plugin",
-  "releases": [{
-    "date": "2022-11-25",
-    "sha512sum": "06D7568A887F81C91078EEF0A3E618CD35A9EA2E8E7129FEE1882255156F557EE4FF312536F7DE30BB7C82F5BE48F79126EDF73DCB49955823BFAC64E88DFA19",
-    "version": "0.0.1",
-    "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpcrabs-0.0.1.jar",
-    "requires": "^1.0.0"
-  }]
+  "releases": [
+    {
+      "date": "2022-11-25",
+      "sha512sum": "06D7568A887F81C91078EEF0A3E618CD35A9EA2E8E7129FEE1882255156F557EE4FF312536F7DE30BB7C82F5BE48F79126EDF73DCB49955823BFAC64E88DFA19",
+      "version": "0.0.1",
+      "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpcrabs-0.0.1.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-11-25",
+      "sha512sum": "94DE36ECBC8149F9C2AD2191ED1F111DACBCCD6FB1076C5F4A7D540EBE3C08630736A7DB6232780FA6F635B5607B26EB1EF768A6DDE2774FA0E6DD427BD2FB2E",
+      "version": "0.0.2",
+      "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpcrabs-0.0.2.jar",
+      "requires": "^1.0.0"
+    }
+  ]
 }, {
   "projectUrl": "https://discord.gg/WTvTbSPknJ",
   "provider": "Warp",
@@ -48,7 +57,7 @@
     },
     {
       "date": "2022-11-25",
-      "sha512sum": "7D9398CA7330A9570965C3844FCC53828D95F39AF4590A616D4BA415AF4DC38557D0879B287970BB5A599D3DF8A49E028359E390B2108891222E536600D0068C",
+      "sha512sum": "2C67C3A1C0A44621E7A745E79910A18DD852F1EC9CF41479D1ABB593E84C24644562FB68FD65065DA308E26D10B4A27D1D97F94D6D3BEDB93391F1E5107EC1FB",
       "version": "0.0.9",
       "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpcutter-0.0.9.jar",
       "requires": "^1.0.0"
