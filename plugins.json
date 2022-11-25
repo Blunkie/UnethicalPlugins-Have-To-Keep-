@@ -75,6 +75,13 @@
       "version": "0.0.9",
       "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpcutter-0.0.9.jar",
       "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-11-25",
+      "sha512sum": "CE575BDB1653377141D71376AA0C3B883E1D387648ECFA63EBF31E73A834399C8DB7A9D14DB7C79CBF6F47AB5D08E08EAA895B2702D9590F6707164DBD069CC7",
+      "version": "0.1.0",
+      "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpcutter-0.1.0.jar",
+      "requires": "^1.0.0"
     }
   ]
 }, {
