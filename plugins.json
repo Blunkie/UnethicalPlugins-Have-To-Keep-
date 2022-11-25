@@ -1,6 +1,19 @@
 [{
   "projectUrl": "https://discord.gg/WTvTbSPknJ",
   "provider": "Warp",
+  "name": "WarpCrabs",
+  "description": "Kills crabs and alchs",
+  "id": "warpcrabs-plugin",
+  "releases": [{
+    "date": "2022-11-25",
+    "sha512sum": "39F4E5B85484DE75C363CB91A02B93BF1CDAC6FDC769FBF3BB6A38B689AFCD46F55C4F029A36209146B7ED40730D1E0AFD654E9B296D8632F7C0F14A761F84B7",
+    "version": "0.0.1",
+    "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpcrabs-0.0.1.jar",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/WTvTbSPknJ",
+  "provider": "Warp",
   "name": "WarpCutter",
   "description": "Get to the Chopper",
   "id": "warpcutter-plugin",
