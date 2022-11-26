@@ -6,7 +6,7 @@ For suggestions or features/bugs contact WaRp#9721
 	* WarpCrabs - Sand crab killer supports 4 spots and Alching can pick up ammo.
 	* WarpCutter - Supports multiple locations/Powerchopping anywhere, Special attack, Bird nest.
 	* WarpGauntlet - Hunllef helper Eat/Prayer swap/Weapon swap/Drink pots.
-	* WarpSkiller - Cuts gems, Fletches Bows (u), High/Low alch, Superheat iron, Make potions, Clean herbs.
+	* WarpSkiller - Cuts gems/Glassblowing, Fletches Bows (u), High/Low alch, Superheat iron, Make potions, Clean herbs.
 	* WarpMasterThieving - Draynor Masterfarmer robber. Support eating and banking/dropping.
 	* WarpVyreKiller - Kills Vyrewatch Sentinels, Recharges prayer and banks loot. 
 
