@@ -32,6 +32,13 @@
       "version": "0.0.4",
       "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpcrabs-0.0.4.jar",
       "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-11-26",
+      "sha512sum": "373A7A6642742D6251E5DD59A1A0F46D60B6976F703ED70745D3990F9B7043CC5C1940A5A9BD00717A285F302D517BA454A001A92A209F8CD8FB3CD9EC563CC1",
+      "version": "0.0.5",
+      "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpcrabs-0.0.5.jar",
+      "requires": "^1.0.0"
     }
   ]
 }, {
@@ -105,7 +112,7 @@
   "id": "warpherbiboar-plugin",
   "releases": [{
     "date": "2022-11-20",
-    "sha512sum": "5CE16D4CEAA68878FAE49B401671DC438C3A7720E672A1B224988FF625BDBCB4A9061B3B40096D75243A051AC6EB74CAF70C945CBE8F9EC37E8A253340972344",
+    "sha512sum": "C5FD1856BCBD67077CBE46D449CD4866226474D42BB0F0A7BFC7B7202F2F55181CB776ECA4B11DF776070F95ABC40BF4270B6D694FFF988D1D9D947A28A66146",
     "version": "0.0.1",
     "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpherbiboar-0.0.1.jar",
     "requires": "^1.0.0"
@@ -116,13 +123,22 @@
   "name": "Warp Master farmer thieving",
   "description": "Steals from the poor farmers",
   "id": "warpmasterfarmerthieving-plugin",
-  "releases": [{
-    "date": "2022-11-17",
-    "sha512sum": "410E8595A2D5FDFB76418A556744926EA57D350FF4277E4210640E775BFF846CA184F296484B87379A9D2AFF2DED46DEF70CD308D1F29E4A8C79E055D0C7371B",
-    "version": "0.0.5",
-    "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpmasterthieving-0.0.5.jar",
-    "requires": "^1.0.0"
-  }]
+  "releases": [
+    {
+      "date": "2022-11-17",
+      "sha512sum": "410E8595A2D5FDFB76418A556744926EA57D350FF4277E4210640E775BFF846CA184F296484B87379A9D2AFF2DED46DEF70CD308D1F29E4A8C79E055D0C7371B",
+      "version": "0.0.5",
+      "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpmasterthieving-0.0.5.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-11-26",
+      "sha512sum": "D20284EE552E674E2FBEF615A93FAA38A5B4A4650AE2FF1DBC9D2C7FA2C15A3C37EE978F0B9E853166C8B49D5C43C46B4EFBFF61F4F8D300D09A74EBF769438C",
+      "version": "0.0.6",
+      "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpmasterthieving-0.0.6.jar",
+      "requires": "^1.0.0"
+    }
+  ]
 }, {
   "projectUrl": "https://discord.gg/WTvTbSPknJ",
   "provider": "Warp",
@@ -149,6 +165,13 @@
       "sha512sum": "8969204F5E038AA3D4902D40B9FF73B414F06C1AE08375AEC220CC743BB6A76EC502E240F5725D46500C6803DB06CA37B5FDB13ADDAC66BDC758352573E11F87",
       "version": "0.1.1",
       "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpskiller-0.1.1.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-11-26",
+      "sha512sum": "EB770C9F0C3670D9BF610DAFB939E41B00948B95D5008DE6A3C85598BDBED4A2344F9D6ECABF5031E9F90F972A87038FBCA69CF2F23EA099D550A8BD66F488C8",
+      "version": "0.1.2",
+      "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpskiller-0.1.2.jar",
       "requires": "^1.0.0"
     }
   ]
