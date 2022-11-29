@@ -173,6 +173,13 @@
       "version": "0.1.2",
       "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpskiller-0.1.2.jar",
       "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-11-29",
+      "sha512sum": "ABF432E515B66EF9C13DED06EA87A2BF5433C5434C90243E6EA2A1BBB1EE3D8709A232654FE6E381E8CDC5BD534481FA95A1C445D892247E2A33241F13A88FA6",
+      "version": "0.1.4",
+      "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpskiller-0.1.4.jar",
+      "requires": "^1.0.0"
     }
   ]
 }, {

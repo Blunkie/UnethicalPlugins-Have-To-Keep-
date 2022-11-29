@@ -5,11 +5,10 @@ For suggestions or features/bugs contact WaRp#9721
 # Current Plugins:
 	* WarpCrabs - Sand crab killer supports 4 spots and Alching can pick up ammo.
 	* WarpCutter - Supports multiple locations/Powerchopping anywhere, Special attack, Bird nest.
-	* WarpGauntlet - Hunllef helper Eat/Prayer swap/Weapon swap/Drink pots.
-	* WarpSkiller - Cuts gems/Glassblowing, Fletches Bows (u), High/Low alch, Superheat iron, Make potions, Clean herbs.
-	* WarpMasterThieving - Draynor Masterfarmer robber. Support eating and banking/dropping.
+	* WarpGauntlet - Hunllef helper Eat/Prayer swap/Weapon swap/Drink pots Only Range/Mage support.
+	* WarpSkiller - Cuts gems/Glassblowing, Fletches Bows (u),Plank make, High/Low alch, Superheat, Superheat Glass, Make potions, Clean herbs.
+	* WarpMasterThieving - Draynor Masterfarmer thiever supports eating and banking/dropping.
 	* WarpVyreKiller - Kills Vyrewatch Sentinels, Recharges prayer and banks loot. 
-
 
 # How to add:
 	Repository owner: WaRpProjects 	
