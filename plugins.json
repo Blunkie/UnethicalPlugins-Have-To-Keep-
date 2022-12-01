@@ -39,6 +39,13 @@
       "version": "0.0.5",
       "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpcrabs-0.0.5.jar",
       "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-12-01",
+      "sha512sum": "08020B50FCDE784EB7DEABB0D11711987D732C227ED52771B4CA84F23F95359151A5E06704134F1E664E75B4AF294277C659176F9A9831A6019282ABF1677313",
+      "version": "0.0.6",
+      "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpcrabs-0.0.6.jar",
+      "requires": "^1.0.0"
     }
   ]
 }, {
@@ -179,6 +186,13 @@
       "sha512sum": "ABF432E515B66EF9C13DED06EA87A2BF5433C5434C90243E6EA2A1BBB1EE3D8709A232654FE6E381E8CDC5BD534481FA95A1C445D892247E2A33241F13A88FA6",
       "version": "0.1.4",
       "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpskiller-0.1.4.jar",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-12-01",
+      "sha512sum": "B1000B5D5B1EF41F3E295DA8665C89A31DC0961D6C3BE610680BF778AC5B281FDA6193203127B0A63329F442810059D9F5617053CB840FF156D2109068401CE2",
+      "version": "0.1.5",
+      "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpskiller-0.1.5.jar",
       "requires": "^1.0.0"
     }
   ]
