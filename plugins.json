@@ -46,6 +46,13 @@
       "version": "0.0.6",
       "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpcrabs-0.0.6.jar",
       "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-12-02",
+      "sha512sum": "B921B89913BFDF1E79664942C28DD4CF1BADA439ACA288452E55099F2E4F82C3FA85410D0679247C06ECA13A287DC72D88D152538950FFF1015F244F87C59093",
+      "version": "0.0.7",
+      "url": "https://raw.githubusercontent.com/warpprojects/UnethicalPlugins/master/warpcrabs-0.0.7.jar",
+      "requires": "^1.0.0"
     }
   ]
 }, {
